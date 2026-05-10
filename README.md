@@ -33,11 +33,11 @@ A food delivery admin application designed to manage the entire system including
 
 ---
 
-## Technology Stack (Add yours here)
+## Technology Stack
 
-- Mobile Framework: (e.g., Flutter / Android Studio)
-- Backend: (e.g., Firebase / Node.js / PHP)
-- Database: (e.g., Firestore / MySQL / SQLite)
+- Mobile Framework:Flutter
+- Backend: FireStore
+- Database: Supabase
 
 ---
 
